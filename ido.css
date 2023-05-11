@@ -74,3 +74,7 @@ dl{
 	color: #243f84;
 	text-decoration: underline;
 }
+#fel{
+	float: right;
+	width: 5vw;
+}
